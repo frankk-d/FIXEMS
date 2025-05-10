@@ -1,0 +1,27 @@
+20250406-13:22:14: Session FIX.4.2:FIXEMS->BANZAI schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250406-13:22:14: Created session: FIX.4.2:FIXEMS->BANZAI
+20250406-13:22:25: Accepting session FIX.4.2:FIXEMS->BANZAI from /10.0.0.215:62770
+20250406-13:22:25: Acceptor heartbeat set to 30 seconds
+20250406-13:22:25: Received logon
+20250406-13:22:25: Responding to Logon request
+20250406-14:02:29: Session FIX.4.2:FIXEMS->BANZAI schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250406-14:02:29: Created session: FIX.4.2:FIXEMS->BANZAI
+20250406-14:02:30: Session FIX.4.2:FIXEMS->BANZAI schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250406-14:02:30: Created session: FIX.4.2:FIXEMS->BANZAI
+20250406-14:02:30: Accepting session FIX.4.2:FIXEMS->BANZAI from /10.0.0.215:53048
+20250406-14:02:30: Acceptor heartbeat set to 30 seconds
+20250406-14:02:30: Received logon
+20250406-14:02:30: Responding to Logon request
+20250406-14:02:34: Session FIX.4.2:FIXEMS->BANZAI schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250406-14:02:34: Created session: FIX.4.2:FIXEMS->BANZAI
+20250406-14:02:42: Session FIX.4.2:FIXEMS->BANZAI schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250406-14:02:42: Created session: FIX.4.2:FIXEMS->BANZAI
+20250406-14:02:42: Accepting session FIX.4.2:FIXEMS->BANZAI from /10.0.0.215:53115
+20250406-14:02:42: Acceptor heartbeat set to 30 seconds
+20250406-14:02:42: Received logon
+20250406-14:02:42: Responding to Logon request
+20250406-15:40:07: Session FIX.4.2:FIXEMS->BANZAI schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250406-15:40:07: Created session: FIX.4.2:FIXEMS->BANZAI
+20250510-00:44:30: Session FIX.4.2:FIXEMS->BANZAI schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250510-00:44:30: Session state is not current; resetting FIX.4.2:FIXEMS->BANZAI
+20250510-00:44:30: Created session: FIX.4.2:FIXEMS->BANZAI
